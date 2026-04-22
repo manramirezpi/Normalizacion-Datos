@@ -3,7 +3,7 @@
 Este repositorio contiene un análisis práctico sobre el impacto de la normalización de variables en algoritmos de optimización de Machine Learning.
 
 ## ¿Qué hace el notebook?
-El notebook principal (oston_normalization_strategies.ipynb) implementa un algoritmo de Regresión Lineal Simple mediante Gradiente Descendente para predecir precios de viviendas del famoso dataset de Boston Housing. 
+El notebook principal (Boston_normalization_strategies.ipynb) implementa un algoritmo de Regresión Lineal Simple mediante Gradiente Descendente para predecir precios de viviendas del famoso dataset de Boston Housing. 
 
 En lugar de utilizar librerías pre-construidas, modela la optimización desde cero para comparar iteración a iteración el comportamiento del entrenamiento con los datos brutos frente a diferentes estrategias de escalado:
 - **Z-Score Normalization** (Estandarización)
